@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
                     edt1.setText(text.substring(0, text.length() - 1));
             }
 
-
+        //checking git commit
         });
 
         button0.setOnClickListener(new View.OnClickListener() {
